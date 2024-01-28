@@ -21,4 +21,4 @@ O projeto apresenta funcionalidades de um CRUD, como:
 Caso queira entrar em contato comigo para conversar sobre o projeto, sobre programação ou sobre trabalho, você pode me encontrar em:
 - Email: marqsleal@gmail.com
 - Discord: servo7875
-- LinkedIn: https://www.linkedin.com/in/gabriel-f-leal-300a14230/
+- LinkedIn: https://www.linkedin.com/in/marqsleal/
